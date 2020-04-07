@@ -1,0 +1,23 @@
+{
+  "name": "musicbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "deepspeech": "^0.6.1",
+    "discord.js": "^12.1.1",
+    "memory-stream": "^1.0.0",
+    "node-lame": "^1.2.2",
+    "node-libsamplerate": "^1.0.0",
+    "pocketsphinx": "^5.0.7",
+    "sox-stream": "^2.0.3",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^2.0.1"
+  }
+}
